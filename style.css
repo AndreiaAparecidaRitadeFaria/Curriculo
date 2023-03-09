@@ -62,7 +62,8 @@ body {
 }
 
 .perfil > p {
-    width: 30%;
+    text-align: justify;
+    width: 25%;
 }
 
 .perfil > h1 {
